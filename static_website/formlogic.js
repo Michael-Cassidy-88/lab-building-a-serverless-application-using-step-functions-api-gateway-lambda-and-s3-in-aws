@@ -2,7 +2,7 @@
 // It should look something like this:
 // https://g1ermzvnb5.execute-api.us-east-1.amazonaws.com/production/reminders
 
-var API_ENDPOINT = 'UPDATETOYOURINVOKEURLENDPOINT/reminders';
+var API_ENDPOINT = 'https://g1ermzvnb5.execute-api.us-east-1.amazonaws.com/production/reminders';
 
 // Setup divs that will be used to display interactive messages
 var errorDiv = document.getElementById('error-message')
