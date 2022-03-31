@@ -1,6 +1,6 @@
 // Replace the YOUR_API_ENDPOINT_URL with yours
 // It should look something like this:
-// https://example1a2s3d.execute-api.us-east-1.amazonaws.com/prod/reminders
+// https://g1ermzvnb5.execute-api.us-east-1.amazonaws.com/production/reminders
 
 var API_ENDPOINT = 'UPDATETOYOURINVOKEURLENDPOINT/reminders';
 
