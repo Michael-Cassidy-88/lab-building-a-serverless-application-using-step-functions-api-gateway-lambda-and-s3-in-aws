@@ -3,7 +3,7 @@ import json
 import os
 import decimal
 
-SFN_ARN = 'STEP_FUNCTION_ARN'
+SFN_ARN = 'arn:aws:states:us-east-1:018196013180:stateMachine:MyStateMachine'
 
 sfn = boto3.client('stepfunctions')
 
